@@ -1,0 +1,562 @@
+a:460:{s:12:"alertaccess1";s:6:"global";s:24:"alertbackgroundcolorinfo";s:7:"#d9edf7";s:27:"alertbackgroundcolorsuccess";s:7:"#dff0d8";s:27:"alertbackgroundcolorwarning";s:7:"#fcf8e3";s:20:"alertbordercolorinfo";s:7:"#bce8f1";s:23:"alertbordercolorsuccess";s:7:"#d6e9c6";s:23:"alertbordercolorwarning";s:7:"#fbeed5";s:14:"alertcolorinfo";s:7:"#3a87ad";s:17:"alertcolorsuccess";s:7:"#468847";s:17:"alertcolorwarning";s:7:"#8a6d3b";s:10:"alertcount";s:1:"1";s:17:"alerthiddencourse";s:7:"warning";s:13:"alerticoninfo";s:11:"info-circle";s:16:"alerticonsuccess";s:8:"bullhorn";s:16:"alerticonwarning";s:20:"exclamation-triangle";s:9:"alertkey1";s:0:"";s:18:"alertprofilefield1";s:0:"";s:10:"alerttext1";s:0:"";s:10:"alerttype1";s:4:"info";s:14:"analyticscount";s:1:"1";s:22:"analyticsprofilefield1";s:0:"";s:14:"analyticstext1";s:0:"";s:11:"anonymizega";s:1:"1";s:9:"backcolor";s:4:"#fff";s:20:"blockbackgroundcolor";s:7:"#F8F8F8";s:16:"blockbordercolor";s:7:"#9e4c5d";s:26:"blockheaderbackgroundcolor";s:7:"#F8F8F8";s:23:"blockheaderborderbottom";s:1:"0";s:21:"blockheaderborderleft";s:3:"1px";s:22:"blockheaderborderright";s:3:"1px";s:20:"blockheaderbordertop";s:3:"1px";s:25:"blockheaderbordertopstyle";s:6:"dashed";s:23:"blockheaderbottomradius";s:1:"0";s:20:"blockheadertopradius";s:1:"0";s:10:"blockicons";s:1:"1";s:20:"blockiconsheadersize";s:4:"20px";s:21:"blocklayoutlayoutrow1";s:7:"3-3-3-3";s:21:"blocklayoutlayoutrow2";s:7:"4-4-4-0";s:21:"blocklayoutlayoutrow3";s:7:"3-3-3-3";s:21:"blocklayoutlayoutrow4";s:7:"0-0-0-0";s:21:"blocklayoutlayoutrow5";s:7:"0-0-0-0";s:21:"blocklayoutlayoutrow6";s:7:"0-0-0-0";s:21:"blocklayoutlayoutrow7";s:7:"0-0-0-0";s:21:"blocklayoutlayoutrow8";s:7:"0-0-0-0";s:21:"blockmainborderbottom";s:3:"1px";s:19:"blockmainborderleft";s:3:"1px";s:20:"blockmainborderright";s:3:"1px";s:18:"blockmainbordertop";s:3:"1px";s:23:"blockmainbordertopstyle";s:6:"dashed";s:21:"blockmainbottomradius";s:1:"0";s:18:"blockmaintopradius";s:1:"0";s:26:"blockregionbackgroundcolor";s:11:"transparent";s:9:"blockside";s:1:"0";s:10:"breadcrumb";s:4:"#fff";s:17:"breadcrumbdisplay";s:10:"breadcrumb";s:14:"breadcrumbhome";s:4:"icon";s:19:"breadcrumbseparator";s:11:"angle-right";s:19:"breadcrumbtextcolor";s:7:"#9e4c5d";s:11:"buttoncolor";s:7:"#629cd1";s:17:"buttoncolorcancel";s:7:"#b6af64";s:15:"buttoncolorscnd";s:7:"#629cd1";s:16:"buttondropshadow";s:1:"0";s:16:"buttonhovercolor";s:7:"#98bbdc";s:22:"buttonhovercolorcancel";s:7:"#d4cd89";s:20:"buttonhovercolorscnd";s:7:"#98bbdc";s:16:"buttonlogincolor";s:7:"#b6af64";s:17:"buttonloginheight";s:4:"24px";s:21:"buttonloginhovercolor";s:7:"#d6ce86";s:20:"buttonloginmargintop";s:3:"2px";s:18:"buttonloginpadding";s:1:"0";s:20:"buttonlogintextcolor";s:7:"#FFFFFF";s:12:"buttonradius";s:3:"4px";s:15:"buttontextcolor";s:7:"#ffffff";s:21:"buttontextcolorcancel";s:7:"#ffffff";s:19:"buttontextcolorscnd";s:7:"#ffffff";s:24:"categoryhavecustomheader";s:0:"";s:12:"cdefaulticon";s:14:"graduation-cap";s:11:"cfrozenicon";s:11:"snowflake-o";s:11:"chiddenicon";s:9:"eye-slash";s:18:"cneveraccessedicon";s:18:"exclamation-circle";s:29:"collapsedtopicscoloursenabled";s:1:"0";s:14:"commonlyusedar";s:0:"";s:36:"coursepageblockactivitybottomenabled";s:1:"0";s:37:"coursepageblocklayoutlayoutbottomrow2";s:7:"3-3-3-3";s:34:"coursepageblocklayoutlayouttoprow1";s:7:"3-3-3-3";s:23:"coursepageblocksenabled";s:1:"0";s:28:"coursepageblocksliderenabled";s:1:"0";s:29:"coursepageheaderhidesitetitle";s:1:"0";s:32:"coursepagesidebarinfooterenabled";s:1:"0";s:34:"coursesectionactivityassignbgcolor";s:7:"#FFFFFF";s:42:"coursesectionactivityassignleftbordercolor";s:7:"#0066cc";s:32:"coursesectionactivitybordercolor";s:7:"#eeeeee";s:32:"coursesectionactivityborderstyle";s:6:"dashed";s:32:"coursesectionactivityborderwidth";s:3:"2px";s:33:"coursesectionactivityforumbgcolor";s:7:"#FFFFFF";s:41:"coursesectionactivityforumleftbordercolor";s:7:"#990099";s:45:"coursesectionactivityfurtherinformationassign";s:0:"";s:45:"coursesectionactivityfurtherinformationchoice";s:0:"";s:43:"coursesectionactivityfurtherinformationdata";s:0:"";s:47:"coursesectionactivityfurtherinformationfeedback";s:0:"";s:45:"coursesectionactivityfurtherinformationlesson";s:0:"";s:43:"coursesectionactivityfurtherinformationquiz";s:0:"";s:34:"coursesectionactivityheadingcolour";s:7:"#0066cc";s:29:"coursesectionactivityiconsize";s:4:"24px";s:36:"coursesectionactivityleftborderwidth";s:3:"3px";s:33:"coursesectionactivitymarginbottom";s:3:"2px";s:30:"coursesectionactivitymargintop";s:3:"2px";s:32:"coursesectionactivityquizbgcolor";s:7:"#F8F8F8";s:40:"coursesectionactivityquizleftbordercolor";s:7:"#629cd1";s:38:"coursesectionactivityuseadaptableicons";s:1:"1";s:20:"coursesectionbgcolor";s:7:"#F8F8F8";s:24:"coursesectionbordercolor";s:7:"#e8eaeb";s:25:"coursesectionborderradius";s:1:"0";s:24:"coursesectionborderstyle";s:5:"solid";s:24:"coursesectionborderwidth";s:3:"1px";s:21:"coursesectionheaderbg";s:7:"#F3F3F3";s:30:"coursesectionheaderbordercolor";s:7:"#93000E";s:37:"coursesectionheaderborderradiusbottom";s:1:"0";s:34:"coursesectionheaderborderradiustop";s:1:"0";s:30:"coursesectionheaderborderstyle";s:4:"none";s:30:"coursesectionheaderborderwidth";s:1:"0";s:19:"coursetitlemaxwidth";s:2:"20";s:10:"covbkcolor";s:7:"#629cd1";s:12:"covfontcolor";s:7:"#ffffff";s:13:"covhidebutton";s:1:"1";s:12:"currentcolor";s:7:"#437cb1";s:20:"customcoursesubtitle";s:0:"";s:17:"customcoursetitle";s:0:"";s:9:"customcss";s:6675:"#page .course-content ul li.section.main.current{
+    background-color: #e8eaeb;
+}
+
+.aalink.focus, a.focus.autolink, #page-footer a:not([class]).focus, .arrow_link.focus, a:not([class]).focus, .activityinstance>a.focus, .aalink:focus, a.autolink:focus, #page-footer a:not([class]):focus, .arrow_link:focus, a:not([class]):focus, .activityinstance>a:focus{
+outline: 0.2rem solid transparent;
+   color: #9e4c5d;
+   background-color: transparent;
+   box-shadow: 0 -0.2rem transparent, 0 0.2rem transparent;
+}
+.aalink:focus {
+   color: #9e4c5d;
+}
+.withclear:focus {
+   color: #495057;
+   background-color: #fff;
+   border-color: #ccc;
+   outline: 0;
+   box-shadow: none;
+}
+.collapsible h3 {
+   color: #629cd1;
+}
+.loginbtn.btn{
+height : auto !important;
+}
+.tabcontentcontainer input.adaptabletab:checked+label {
+   background-color: #9e4c5d;
+   border-color: #fff;
+   color: #fff;
+}
+#adaptable-tab-aboutme,#adaptable-tab-coursedetails,#adaptable-tab-more,#adaptable-tab-editprofile{
+padding:10px;
+}
+.activityiconcontainer .icon {
+   height: 15px;
+   width: 15px;
+}
+.block_recentlyaccesseditems .activityiconcontainer {
+   width: 20px;
+   height: 22px;
+}
+#usermenu:focus{
+box-shadow: none;
+}
+.btn-login{
+color: #fff !important;
+}
+#page-footer .info{
+display:none;
+}
+
+.bd-highlight a:not([class]):focus {
+   background: none;
+   box-shadow: none;
+}
+#page-site-index .container #region-main.col-12{
+display:none !important;
+}
+@media only screen and (max-width: 768px) {
+.containermobile {
+ position: relative;
+ width: 100%;
+ overflow: hidden;
+ padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-iframeyou {
+ position: absolute;
+ top: 0;
+ left: 0;
+ bottom: 0;
+ right: 0;
+ width: 100%;
+ height: 100%;
+ border: none;
+}
+}
+
+.flexslider:hover .flex-next {
+   opacity: 0;
+}
+.flexslider:hover .flex-prev {
+   opacity: 0;
+}
+
+.flex-direction-nav a {
+   display: none !important;
+}
+#above-header {
+   border-bottom: 2px solid #ffffff !important;
+}
+#above-header .fa {
+   color: #629cd1;
+}
+
+.form-control {
+   display: block;
+   width: 96%;
+   height: calc(1.5em + 0.75rem + 2px);
+   padding: .375rem .75rem;
+   font-size: .9375rem;
+   font-weight: 400;
+   line-height: 1.5;
+   color: #495057;
+   background-color: #fff;
+   background-clip: padding-box;
+   border: 1px solid #8f959e;
+   border-radius: 0;
+   transition: border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
+}
+.btn-login {
+   background-image: none;
+   background-color: #2e65ae !important;
+   border: none;
+   border-radius: 0;
+   box-shadow: none !important;
+   color: #FFF;
+   cursor: pointer;
+   padding: 0 15px;
+   text-shadow: none;
+   transition: background 0.2s ease-out 0s;
+   margin-top: 2px;
+   margin-right: 2px;
+   height: 24px;
+   width: 90px !important;
+}
+.btn, .btn a {
+ 
+  /* height: 47px;*/
+}
+#ticker-announce  {
+   background-color: #3A454b !important;
+   padding: 0 35px;
+   padding-top: 0;
+   padding-right: 15px;
+   padding-bottom: 0;
+   padding-left: 15px;
+   color: #eee;
+   margin-right: 35px;
+   text-transform: uppercase;
+   font-weight: 600;
+}
+#coursesearch{
+display:none;
+}
+.hidden-blocks{
+display:none;
+}
+
+.preferences-group ul li:nth-child(5){
+display:none;
+}
+.preferences-group ul li:nth-child(6){
+display:none;
+}
+.preferences-group ul li:nth-child(7){
+display:none;
+}
+.preferences-group ul li:nth-child(8){
+display:none;
+}
+.preferences-group ul li:nth-child(9){
+display:none;
+}
+.preferences-group ul li:nth-last-child(6){
+display:none;
+}
+.preferences-group ul li:nth-last-child(7){
+display:none;
+}
+.que .formulation{
+background-color: #F8F8F8 !important;
+}
+
+.coursebox.panel.hover{
+height:auto !important;
+}
+.alert-warning{
+display :none !important;
+}
+.nav-tabs>li>a{
+   color: #6c757d;
+}
+.nav-tabs>.active>a, .nav-tabs>.active>a:hover, .nav-tabs>.active>a:focus{
+color: #3165ae !important;
+}
+.nav-tabs>li>a:hover{
+ color: #3165ae !important;
+}
+.nav-tabs>li{
+    background-color: #629cd1;
+}
+.atto_image_button_text-top {
+   vertical-align: text-top;
+margin: 0 -0.5em;
+}
+img {
+body{
+color:#000 !important;
+}
+#fitem_id_profile_field_registerfeepaid{
+display:none !important;
+}
+#studyoption{
+background-color: rgba(0, 196, 255, 0.17);
+   padding: 12px;
+   border-radius: 10px 10px 10px 10px;
+   margin-bottom: 15px;
+  font-style: italic;
+}
+.feedback{
+   font-size: 20px;
+}
+.instancename{
+font-weight: 100 !important;
+}
+.block>.content{
+   margin-left: 0 !important;
+  padding: 10px !important;
+}
+
+#userprofiletabs label[for=editprofile] {
+   display: none;
+}
+.privacyandpolicies{
+display: none;
+}
+#action-menu-0-menu{
+   padding: 20px !important;
+}
+#page-footer{
+   padding-top: 30px !important;
+background-color: #666366 !important;
+}
+
+#page-footer a {
+   text-decoration: none !important;
+   padding: 3px !important;
+   color: #fff !important;
+}
+#page-footer h6{
+color: #fff !important;
+   font-family: Open Sans,sans-serif!important;
+}
+#usermenu{
+color: #656366 !important;
+}
+@media only screen and (max-width: 1150px) {
+#page-site-index #marketblocks .coursecatal .containerp {
+text-align:center !important;
+}
+}
+@media only screen and (max-width: 845px) {
+#page-site-index #marketblocks .welcome .welcomebutton{
+display: block !important;
+}
+}
+@media only screen and (max-width: 767px) {
+#page-site-index #marketblocks .coursecatal {
+margin-top: 35px;
+}
+#page-site-index #marketblocks .welcome .welcomebutton{
+display: inline-flex !important;
+}
+}
+@media only screen and (max-width: 423px) {
+#page-site-index #marketblocks .welcome .welcomebutton{
+display: block !important;
+}
+}
+@media only screen and (max-width: 1093px) {
+#page-site-index .marketrow .my-1.col-md-6{
+flex:none;
+max-width:100%;
+}
+#page-site-index #marketblocks .welcome .welcomebutton .col-md-6{
+max-width: 100%;
+}
+#page-site-index #marketblocks .coursecatal .coursecatalbuttons .col-md-6 {
+max-width: 100%;
+}
+}
+@media only screen and (max-width: 1150px) {
+#page-site-index #marketblocks .welcome .welcomebutton .col-md-6{
+max-width: 100%;
+}
+#page-site-index #marketblocks .coursecatal .coursecatalbuttons .col-md-6 {
+max-width: 100%;
+}
+}
+@media only screen and (min-width: 768px) {
+#page-site-index #marketblocks .marketrow:nth-child(2) .col-md-3 {
+max-width: 100%;
+}
+#page-site-index #marketblocks .marketrow:nth-child(2){
+justify-content: center;
+}
+}
+#page-site-index #marketblocks .marketingBlueBlock:hover {
+   background: #b4ac64 !important;
+}
+.bd-highlight{
+   background: none;
+   box-shadow: none;
+}";s:15:"dangericoncolor";s:7:"#d9534f";s:25:"dashblocklayoutlayoutrow1";s:7:"3-3-3-3";s:25:"dashblocklayoutlayoutrow2";s:7:"4-4-4-0";s:25:"dashblocklayoutlayoutrow3";s:7:"3-3-3-3";s:25:"dashblocklayoutlayoutrow4";s:7:"0-0-0-0";s:25:"dashblocklayoutlayoutrow5";s:7:"0-0-0-0";s:25:"dashblocklayoutlayoutrow6";s:7:"0-0-0-0";s:25:"dashblocklayoutlayoutrow7";s:7:"0-0-0-0";s:25:"dashblocklayoutlayoutrow8";s:7:"0-0-0-0";s:17:"dashblocksenabled";s:1:"0";s:18:"dashblocksposition";s:12:"abovecontent";s:11:"defaultzoom";s:4:"wide";s:17:"disablecustommenu";s:0:"";s:23:"disablemenuscoursepages";s:1:"1";s:24:"displayeditingbuttontext";s:1:"1";s:13:"displaygrades";s:1:"1";s:12:"displaylogin";s:6:"button";s:19:"displayparticipants";s:1:"1";s:12:"dividingline";s:7:"#ffffff";s:13:"dividingline2";s:7:"#ffffff";s:21:"editcognocourseupdate";s:1:"1";s:8:"editfont";s:7:"#ffffff";s:21:"edithorizontalpadding";s:3:"6px";s:9:"editoffbk";s:7:"#d6ce86";s:8:"editonbk";s:7:"#b6af64";s:18:"editsettingsbutton";s:6:"button";s:13:"edittopmargin";s:3:"1px";s:19:"editverticalpadding";s:3:"4px";s:12:"emoticonsize";s:4:"12px";s:16:"enableaccesstool";s:0:"";s:12:"enablealert1";s:0:"";s:22:"enablealertcoursepages";s:0:"";s:12:"enablealerts";s:0:"";s:20:"enablealertstriptags";s:1:"1";s:15:"enableanalytics";s:0:"";s:22:"enableavailablecourses";s:4:"none";s:12:"enablebadges";s:0:"";s:10:"enableblog";s:0:"";s:14:"enablecalendar";s:0:"";s:22:"enablecompetencieslink";s:0:"";s:20:"enablecoursesections";s:1:"1";s:35:"enabledtabbedprofileeditprofilelink";s:1:"1";s:39:"enabledtabbedprofileuserpreferenceslink";s:1:"1";s:17:"enableeditprofile";s:1:"1";s:12:"enableevents";s:0:"";s:10:"enablefeed";s:0:"";s:12:"enablegrades";s:1:"1";s:13:"enableheading";s:3:"off";s:10:"enablehelp";s:0:"";s:11:"enablehelp1";s:0:"";s:11:"enablehelp2";s:0:"";s:10:"enablehome";s:1:"1";s:18:"enablehomeredirect";s:1:"1";s:11:"enablemenus";s:1:"1";s:17:"enablemessagemenu";s:1:"1";s:8:"enablemy";s:1:"1";s:12:"enablemyhome";s:1:"1";s:13:"enablemysites";s:13:"excludehidden";s:24:"enablemysitesrestriction";s:0:"";s:25:"enablenavbarwhenloggedout";s:0:"";s:10:"enablenote";s:0:"";s:11:"enableposts";s:0:"";s:10:"enablepref";s:1:"1";s:18:"enableprivatefiles";s:0:"";s:13:"enableprofile";s:1:"1";s:23:"enablesavecanceloverlay";s:1:"1";s:20:"enableshowhideblocks";s:1:"1";s:24:"enableshowhideblockstext";s:1:"1";s:19:"enabletabbedprofile";s:1:"1";s:16:"enablethiscourse";s:1:"1";s:12:"enableticker";s:0:"";s:14:"enabletickermy";s:0:"";s:16:"enabletoolsmenus";s:0:"";s:10:"enablezoom";s:0:"";s:18:"enablezoomshowtext";s:0:"";s:7:"favicon";s:16:"/favicon (2).ico";s:19:"filteradminmessages";s:0:"";s:20:"fontblockheadercolor";s:7:"#152a55";s:19:"fontblockheadersize";s:4:"18px";s:21:"fontblockheaderweight";s:3:"400";s:9:"fontcolor";s:4:"#000";s:15:"fontheadercolor";s:7:"#333333";s:14:"fontheadername";s:11:"Roboto Slab";s:16:"fontheaderweight";s:3:"400";s:8:"fontname";s:9:"Open Sans";s:8:"fontsize";s:3:"95%";s:10:"fontsubset";s:0:"";s:14:"fonttitlecolor";s:7:"#ffffff";s:20:"fonttitlecolorcourse";s:7:"#ffffff";s:13:"fonttitlename";s:9:"Audiowide";s:13:"fonttitlesize";s:4:"32px";s:15:"fonttitleweight";s:3:"400";s:10:"fontweight";s:3:"400";s:14:"footer1content";s:896:"<h6 style="text-align: center;"><br></h6><h6 style="text-align: center;">  <a href="https://svhs.co/terms-of-use/" target="_blank">Website Terms of Use</a> |&nbsp;<a href="https://svhs.co/privacy-policy/" target="_blank">Website Privacy Policy</a><a href="http://svhs.co/privacypolicy.aspx" target="_blank" style="display:inline" id="ctl00_A2"></a> | <a href="https://svhs.co/policies/" target="_blank">Policies</a> |&nbsp;<a href="https://svhs.co/feedback-student/" target="_blank">Feedback</a> | <a href="https://svhs.co/request-transcript/" target="_blank">Request Transcript</a> | <a href="https://svhs.co/support/" target="_blank">FAQ</a> |&nbsp;<a href="https://svhs.co/contact-us/" target="_blank">Contact Us</a>&nbsp;<br><br><span>Fully Accredited by Cognia (AdvancED) and WASC.</span><br></h6><h6 style="text-align: center;"><em>┬® Silicon Valley High School, Inc.&nbsp;</em><br></h6>";s:13:"footer1header";s:0:"";s:14:"footer2content";s:0:"";s:13:"footer2header";s:0:"";s:14:"footer3content";s:0:"";s:13:"footer3header";s:0:"";s:14:"footer4content";s:0:"";s:13:"footer4header";s:0:"";s:13:"footerbkcolor";s:7:"#e1e2e4";s:21:"footerblocksplacement";s:1:"1";s:16:"footerlayoutrow1";s:8:"12-0-0-0";s:16:"footerlayoutrow2";s:7:"0-0-0-0";s:16:"footerlayoutrow3";s:7:"0-0-0-0";s:15:"footerlinkcolor";s:7:"#629cd1";s:15:"footertextcolor";s:7:"#ffffff";s:16:"footertextcolor2";s:7:"#629cd1";s:8:"footnote";s:0:"";s:24:"forumbodybackgroundcolor";s:7:"#ffffff";s:26:"forumheaderbackgroundcolor";s:7:"#ffffff";s:22:"frontpageblocksenabled";s:1:"0";s:14:"frontpagelogin";s:1:"1";s:22:"frontpagemarketenabled";s:1:"1";s:21:"frontpagemarketoption";s:0:"";s:20:"frontpagenumbertiles";s:1:"4";s:17:"frontpagerenderer";s:1:"2";s:29:"frontpagerendererdefaultimage";s:0:"";s:26:"frontpageuserblocksenabled";s:1:"1";s:15:"fullscreenwidth";s:3:"98%";s:10:"gdprbutton";s:4:"none";s:11:"googlefonts";s:0:"";s:16:"header2searchbox";s:10:"expandable";s:13:"headerbgimage";s:0:"";s:13:"headerbkcolor";s:7:"#ffffff";s:14:"headerbkcolor2";s:7:"#f8f8f8";s:21:"headersearchandsocial";s:15:"searchmobilenav";s:11:"headerstyle";s:6:"style1";s:15:"headertextcolor";s:7:"#629cd1";s:16:"headertextcolor2";s:4:"#000";s:14:"helplinkscount";s:1:"2";s:14:"helplinktitle1";s:0:"";s:14:"helplinktitle2";s:0:"";s:16:"helpprofilefield";s:0:"";s:17:"helpprofilefield1";s:0:"";s:17:"helpprofilefield2";s:0:"";s:10:"helptarget";s:6:"_blank";s:16:"hidealertsmobile";s:1:"0";s:20:"hidebreadcrumbmobile";s:1:"0";s:21:"hidecoursetitlemobile";s:1:"0";s:16:"hidefootersocial";s:1:"1";s:16:"hideheadermobile";s:1:"1";s:11:"hideinforum";s:0:"";s:14:"hidelogomobile";s:1:"0";s:20:"hidepagefootermobile";s:1:"0";s:16:"hideslidermobile";s:1:"1";s:16:"hidesocialmobile";s:1:"0";s:6:"homebk";s:0:"";s:7:"infobox";s:0:"";s:8:"infobox2";s:0:"";s:17:"infoboxfullscreen";s:1:"1";s:13:"infoiconcolor";s:7:"#5bc0de";s:23:"introboxbackgroundcolor";s:7:"#ffffff";s:9:"jssection";s:4795:"<script>
+$(document).ready(function(){
+
+ var urlpathArray = window.location.pathname.split( '/' );
+ var currentpage = urlpathArray[2];
+if(currentpage!="booking.php"){
+		var i=0;
+    $("iframe").each(function() {
+            $(this).addClass("responsive-iframeyou iframeClass_"+i);
+            $("<div class='containermobile iframeClass_"+i+"'></div>").insertBefore(this);
+    				$(this).appendTo(".iframeClass_"+i);
+                    $(this).remove();
+            i++;
+     });
+}
+    
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function() {
+     $('#id_category_4').hide();
+     $('#id_category_2').hide();
+     $('#id_category_3').hide();
+     $('#id_category_7').hide();
+   $("#id_category_8").removeClass("collapsed");
+     optiontoggle();
+
+    $('#id_profile_field_studyoption').change(function() {
+       optiontoggle(); 
+    });
+
+function optiontoggle(id_category=""){
+     var optionvalue = $('#id_profile_field_studyoption').val();
+        if(optionvalue=="Part-time"){
+            $("#id_category_4").hide();
+            $("#id_category_7").show();
+            $("#id_category_2").show();
+            $("#id_category_7").removeClass("collapsed");
+            $("#id_category_2").removeClass("collapsed");
+        }else if(optionvalue=="Full-time" || optionvalue=="Parent"){
+            if(id_category="id_category_4_show"){
+              //  $("#id_category_4").show();
+               // $("#id_category_4").removeClass("collapsed");
+                 $("#id_category_4").hide();  
+            }else{
+               $("#id_category_4").hide();  
+            }
+            $("#id_category_2").hide();
+           
+            $("#id_category_7").hide();
+        }else if(optionvalue=="Educator"){
+            $("#id_category_7").show();
+            $("#id_category_4").hide();
+            $("#id_category_2").hide();
+            $("#id_category_7").removeClass("collapsed");
+        }
+else{
+             $('#id_category_4').hide();
+             $('#id_category_2').hide();
+             $('#id_category_7').hide();
+        }
+}
+});
+
+$("#fitem_id_profile_field_DOB input").attr("placeholder", "MM/DD/YYYY");
+
+</script>
+
+<script>
+$(document).ready(function(){
+var pathArray = window.location.pathname.split( '/' );
+
+var segment_1 = pathArray[2];
+
+var foldername =  pathArray[1];
+if(foldername=="course" && segment_1=="index.php"){
+
+$(" .singleselect option[value=31]").hide();
+}
+if(foldername=="user" && segment_1=="preferences.php"){
+
+
+}
+if(segment_1=="edit.php"){
+$('#fitem_id_firstname').hide();
+$('#fitem_id_lastname').hide();
+$('#fitem_id_email').hide();
+$('#id_profile_field_studyoption').prop('disabled', false);
+$("#id_moodle_additional_names").hide();
+$("#id_moodle_interests").hide();
+$("#id_moodle_optional").hide();
+$("#id_moodle_picture").hide();
+$("#id_category_5").hide();
+
+//optiontoggle("id_category_4_show");
+//$('#id_category_4').show();
+
+ var optionvalue = $('#id_profile_field_studyoption').val();
+  if(optionvalue=="Full-time"){
+              $("#id_category_4").show();
+              $("#id_category_4").removeClass("collapsed");
+            
+              $("#id_category_2").hide();
+              $("#id_category_7").hide();
+        }
+
+}
+if(segment_1=="editadvanced.php"){
+$('#id_profile_field_studyoption').prop('disabled', false);
+$("#id_moodle_additional_names").show();
+$("#id_moodle_interests").show();
+$("#id_moodle_optional").show();
+$("#id_moodle_picture").show();
+$("#id_category_5").show();
+
+//optiontoggle("id_category_4_show");
+//$('#id_category_4').show();
+
+ var optionvalue = $('#id_profile_field_studyoption').val();
+  if(optionvalue=="Full-time"){
+              $("#id_category_4").show();
+              $("#id_category_4").removeClass("collapsed");
+            
+              $("#id_category_2").hide();
+              $("#id_category_7").hide();
+        }
+
+}
+if(segment_1=="signup.php"){
+    $("#id_profile_field_studyoption option[value='Full-time']").each(function() {
+     $(this).remove();
+    });
+    $('select option:contains("Part-time")').text('Student');
+}
+
+});
+</script>
+<script>
+$('#editprofile').prop('checked', false);
+$('#aboutme').prop('checked', true);
+
+</script>
+
+<!-- Google Analytics code start-->
+
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-104388575-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Google Analytics code end-->
+";s:19:"jssectionrestricted";s:0:"";s:32:"jssectionrestricteddashboardonly";s:1:"1";s:31:"jssectionrestrictedprofilefield";s:124:" <script type="text/javascript">    document.getElementById("id_profile_field_DOB").setAttribute('value','date'); </script> ";s:9:"linkcolor";s:7:"#629cd1";s:9:"linkhover";s:7:"#437cb1";s:12:"loadingcolor";s:7:"#629cd1";s:12:"loginbgimage";s:0:"";s:14:"loginbgopacity";s:3:"0.8";s:12:"loginbgstyle";s:5:"cover";s:11:"loginfooter";s:1:"1";s:11:"loginheader";s:1:"1";s:18:"logintextboxbottom";s:0:"";s:15:"logintextboxtop";s:0:"";s:4:"logo";s:29:"/SVHS-LOGO-AT-600-CROPPED.png";s:9:"maincolor";s:4:"#fff";s:7:"market1";s:1652:"<center>
+    <div style="width:100%;">
+        <img src="https://svhs.co/pdf/Banner-Top-StudentsHoldingBanner.png" alt="Students" width="1080" height="185" class="img-responsive atto_image_button_middle"></div>
+</center>
+
+
+<center>
+    <div class="welcome" height:="" auto;="" text-align:="" center;="" width:="" 100%;="">
+        <div class="welcometext " style="padding: 1px 1px 1px 1px; ">
+
+            <h5>
+                <span style="color: #3165ae ; font-size: 24px; vertical-align: t>
+           
+                <b style=" color:=" " ="=" " "="" #152a55;=" " font-size:=" " 22px;=" " vertical-align:=" " top;=" ">Welcome To Our Virtual Campus</span></h5><br>
+
+            <p style="color: #152a55; font-size: 16px; text-align: center; ">
+                <strong><a href="https://lms.svhs.co/login/index.php">Login</a> </strong>to buy and access Silicon Valley High School courses.<br><em>Don't have an account? Create <a href="https://lms.svhs.co/login/signup.php?"><strong>one</strong></a></em>.</p>
+
+            <center>
+                <a href="https://lms.svhs.co/store/"><img src="https://svhs.co/pdf/BUTTONS-01.png" onmouseover="this.src='https://svhs.co/pdf/BUTTONS-ROLLOVER-01.png'" onmouseout="this.src='https://svhs.co/pdf/BUTTONS-01.png'" alt="Store" width="220" height="60"></a>&nbsp;
+                <a href="https://lms.svhs.co/my/index.php/"><img src="https://svhs.co/pdf/BUTTONS-02.png" onmouseover="this.src='https://svhs.co/pdf/BUTTONS-ROLLOVER-02.png'" onmouseout="this.src='https://svhs.co/pdf/BUTTONS-02.png'" alt="Store" width="220" height="60"></a></center>
+
+
+        </div>
+    </div>
+</center>";s:7:"market2";s:1432:"<center>
+    <div class="welcome" style="background-color:#878e95;" height:="" auto;="" text-align:="" center;="" width:="" 100%;="">
+        <div class="welcometext " style="padding: 25px 25px 25px 25px; ">
+            <h5><span style="color: #FFFFFF; font-size: 24px; vertical-align: ">NoticeÔÇöUpcoming Maintenance over Thanksgiving</span></h5>
+            <p style="color: #ffffff; font-size: 14px; text-align: center; ">The Online Campus will be OFFLINE for maintenance on Thanksgiving day. It will go offline at 9pm Pacific time on Wednesday November 23rd and will be back online as soon as it the maintenance and upgrade has been completed--ideally before Friday
+                morning.&nbsp;
+            </p>
+            <p style="color: #ffffff; font-size: 14px; text-align: center; ">Enjoy your Thanksgiving break!</p><p style="color: #ffffff; font-size: 14px; text-align: center; "><br></p>
+
+
+
+            <h5><span style="color: #FFFFFF; font-size: 24px; vertical-align: ">Shop Our New Course Catalog</span></h5>
+
+            <p><iframe src="https://www.youtube.com/embed/d6_ZSyP5lLw?rel=0 " allowfullscreen=" " width="320 " height="180 " frameborder="0 " class="ui-droppable"></iframe></p>
+
+            <p style="color: #ffffff; font-size: 14px; text-align: center; ">You can purchase multiple courses for a student in one transaction!
+            </p>
+
+
+
+        </div>
+
+    </div>
+</center>";s:7:"market3";s:1853:"<center>
+    <div class="welcome" style="background-color:#2e65ae;" height:="" auto;="" text-align:="" center;="" width:="" 100%;="">
+        <div class="welcometext " style="padding: 25px 25px 25px 25px; ">
+            <h5><span style="color: #FFFFFF; font-size: 24px; vertical-align: top; ">Good to Know!</span></h5>
+
+            <p><iframe class="responsive-iframeyou ui-droppable" src="https://www.youtube.com/embed/PNeSWW9qM3Q?rel=0" gesture="media" allow="encrypted-media" allowfullscreen="" width="320" height="180" frameborder="0"></iframe></p>
+
+            <p><span style="text-align: center; color: rgb(255, 255, 255);">Read the course instructions in your course to understand how to succeed!</span>
+            </p>
+
+
+            <span style="text-align: left; color: rgb(255, 255, 255);">
+            <p><strong>About the Assignments</strong></p>
+            <ul>
+
+                <li>All assignments are <u>required</u>.&nbsp;</li><li>Incomplete assignments will be returned to you for you to complete.</li>
+                <li>Do your assignments as you finish the unit and <u>before</u> taking the unit test.</li>
+                <li>Sharing an image, audio, or video on a shared drive - <u>set permissions</u> to 'anyone with a link.'</li>
+                <li>Uploading a video - use YouTube, make it 'unlisted,' and share the YouTube URL with your teacher.</li>
+                <li>Cite your sources.</li>
+                <li>Ignore Unicheck's error message: "incorrect file format" when you submit an image file.</li>
+            </ul>
+          
+          
+              <p>See the <a href="https://svhs.co/submitting-assignments/" target="_blank" style="color: #FFFFFF;"><u>Submitting Your Assignment</u></a> document for more useful tips.</p> 
+          </span>
+
+
+        </div>
+
+    </div>
+</center>";s:7:"market4";s:1571:"<center>
+    <div class="welcome" style="background-color:#878e95 ;" height:="" auto;="" text-align:="" center;="" width:="" 100%;="">
+        <div class="welcometext " style="padding: 25px 25px 25px 25px; ">
+            <h5><span style="color: #FFFFFF; font-size: 24px; vertical-align: ">
+        Need Help?</span></h5>
+
+            <span style="text-align: left; color: rgb(255, 255, 255);">
+            <ul>
+            <li>Check our  <a href="https://svhs.co/support/ " style="color:white " target="_blank "><u>Frequently Asked Questions</u></a> or <a href="https://svhs.freshdesk.com/support/home " style="color:white " target="_blank "><u>Knowledgebase</u></a>.</li>
+                <li>Have a question about your course, use the "Ask The Teacher" page in the course.</li>
+             
+               
+                <li>Have a general question, contact <a href="https://svhs.co/contact-us/ " style="color:white " target="_blank "><u>Customer Support</u></a>.</li>
+                <li>Need a tutor's help, <a href="https://svhs.co/tutoring/ " style="color:white " target="_blank "><u>book a tutoring session</u></a>. If you have tutoring credits on your account, access your&nbsp;<a href="https://lms.svhs.co/book_tutoring/ " style="color:white " target="_blank "><u>Tutoring Portal</u></a>.</li>
+              <li><a href="https://svhs.co/request-transcript/ " style="color:white " target="_blank "><u>Send a transcript</u></a>&nbsp;to your school, your counselor, yourself.
+                </li></ul>
+        </span></div>
+    </div>
+</center>";s:7:"market5";s:0:"";s:7:"market6";s:0:"";s:7:"market7";s:47:"<p dir="ltr" style="text-align: left;"><br></p>";s:22:"marketblockbordercolor";s:7:"#e8eaeb";s:27:"marketblocksbackgroundcolor";s:11:"transparent";s:16:"marketlayoutrow1";s:8:"12-0-0-0";s:16:"marketlayoutrow2";s:7:"4-4-4-0";s:16:"marketlayoutrow3";s:8:"12-0-0-0";s:16:"marketlayoutrow4";s:7:"0-0-0-0";s:16:"marketlayoutrow5";s:7:"0-0-0-0";s:11:"menubkcolor";s:7:"#3165ae";s:15:"menubordercolor";s:7:"#629cd1";s:13:"menufontcolor";s:4:"#fff";s:15:"menufontpadding";s:4:"30px";s:12:"menufontsize";s:4:"14px";s:14:"menuhovercolor";s:7:"#629cd1";s:24:"menuoverrideprofilefield";s:15:"topmenusettings";s:11:"menusession";s:1:"1";s:14:"menusessionttl";s:2:"30";s:13:"menuslinkicon";s:7:"fa-link";s:14:"menuslinkright";s:1:"1";s:16:"menuuseroverride";s:0:"";s:22:"messagepopupbackground";s:7:"#fff000";s:17:"messagepopupcolor";s:7:"#333333";s:24:"messagingbackgroundcolor";s:7:"#FFFFFF";s:17:"mobilemenubkcolor";s:7:"#3165ae";s:19:"mobilemenufontcolor";s:4:"#fff";s:24:"mobileslidebartabbkcolor";s:7:"#F9F9F9";s:26:"mobileslidebartabiconcolor";s:7:"#6714FA";s:10:"moodledocs";s:0:"";s:13:"msgbadgecolor";s:7:"#E53935";s:18:"mycoursesmenulimit";s:2:"20";s:16:"mysitesmaxlength";s:2:"30";s:18:"mysitesmenudisplay";s:14:"shortcodehover";s:19:"mysitessortoverride";s:3:"off";s:24:"mysitessortoverridefield";s:0:"";s:18:"navbardisplayicons";s:1:"1";s:25:"navbardisplaysubmenuarrow";s:0:"";s:26:"navbardropdownborderradius";s:1:"0";s:24:"navbardropdownhovercolor";s:4:"#EEE";s:23:"navbardropdowntextcolor";s:4:"#007";s:28:"navbardropdowntexthovercolor";s:4:"#000";s:28:"navbardropdowntransitiontime";s:4:"0.2s";s:8:"newmenu1";s:0:"";s:13:"newmenu1field";s:0:"";s:20:"newmenu1requirelogin";s:0:"";s:13:"newmenu1title";s:14:"Course Catalog";s:15:"newstickercount";s:1:"1";s:32:"onetopicactivetabbackgroundcolor";s:7:"#d9edf7";s:26:"onetopicactivetabtextcolor";s:7:"#000000";s:2:"p1";s:32:"/StudentsLayingDown273height.png";s:5:"p1cap";s:0:"";s:5:"p1url";s:0:"";s:2:"p2";s:0:"";s:5:"p2cap";s:20:"         
+         ";s:5:"p2url";s:0:"";s:2:"p3";s:0:"";s:5:"p3cap";s:20:"         
+         ";s:5:"p3url";s:0:"";s:16:"pageheaderheight";s:4:"72px";s:16:"pageheaderlayout";s:8:"original";s:19:"pageheaderlayouttwo";s:8:"original";s:12:"piwikenabled";s:0:"";s:15:"piwikimagetrack";s:1:"1";s:11:"piwiksiteid";s:1:"1";s:12:"piwiksiteurl";s:0:"";s:15:"piwiktrackadmin";s:0:"";s:17:"printbodyfontsize";s:4:"11pt";s:15:"printlineheight";s:3:"1.2";s:11:"printmargin";s:15:"2cm 1cm 2cm 2cm";s:20:"printpageorientation";s:9:"landscape";s:15:"regionmaincolor";s:4:"#FFF";s:20:"rendereroverlaycolor";s:7:"#629cd1";s:24:"rendereroverlayfontcolor";s:4:"#FFF";s:16:"responsivealerts";s:17:"d-none d-lg-block";s:20:"responsivebreadcrumb";s:16:"d-none d-lg-flex";s:21:"responsivecoursetitle";s:24:"d-none d-lg-inline-block";s:16:"responsiveheader";s:17:"d-none d-lg-block";s:14:"responsivelogo";s:24:"d-none d-lg-inline-block";s:20:"responsivepagefooter";s:7:"d-block";s:20:"responsivesearchicon";s:1:"1";s:20:"responsivesectionnav";s:1:"0";s:16:"responsiveslider";s:7:"d-block";s:16:"responsivesocial";s:17:"d-none d-lg-block";s:20:"responsivesocialsize";s:4:"34px";s:16:"responsiveticker";s:17:"d-none d-lg-block";s:16:"searchboxpadding";s:7:"0 0 0 0";s:19:"sectionheadingcolor";s:7:"#152a55";s:19:"selectionbackground";s:7:"#eeff41";s:13:"selectiontext";s:4:"#333";s:16:"showfooterblocks";s:1:"1";s:31:"shownavigationblockoncoursepage";s:1:"1";s:12:"showusername";s:1:"1";s:16:"showyourprogress";s:4:"none";s:16:"sidebarnotlogged";s:1:"1";s:9:"sitetitle";s:8:"disabled";s:17:"sitetitlemaxwidth";s:3:"50%";s:16:"sitetitlepadding";s:10:"0 0 15px 0";s:20:"sitetitlepaddingleft";s:1:"0";s:19:"sitetitlepaddingtop";s:1:"0";s:13:"sitetitletext";s:0:"";s:11:"slidercount";s:1:"1";s:13:"sliderenabled";s:1:"0";s:16:"sliderfullscreen";s:1:"1";s:13:"sliderh3color";s:7:"#ffffff";s:13:"sliderh4color";s:7:"#ffffff";s:18:"slidermarginbottom";s:1:"0";s:15:"slidermargintop";s:1:"0";s:13:"slideroption2";s:7:"slider1";s:19:"slidersubmitbgcolor";s:7:"#009688";s:17:"slidersubmitcolor";s:7:"#ffffff";s:28:"socialboxpaddingbottommobile";s:4:"10px";s:25:"socialboxpaddingtopmobile";s:4:"10px";s:14:"socialiconlist";s:0:"";s:14:"socialorsearch";s:6:"social";s:17:"socialpaddingside";s:2:"16";s:16:"socialpaddingtop";s:4:"1.8%";s:10:"socialsize";s:4:"32px";s:16:"socialsizemobile";s:4:"22px";s:12:"socialtarget";s:5:"_self";s:25:"socialwallactionlinkcolor";s:7:"#629cd1";s:30:"socialwallactionlinkhovercolor";s:7:"#629cd1";s:25:"socialwallbackgroundcolor";s:7:"#ffffff";s:21:"socialwallbordercolor";s:7:"#B9B9B9";s:24:"socialwallbordertopstyle";s:5:"solid";s:21:"socialwallborderwidth";s:3:"2px";s:23:"socialwallsectionradius";s:3:"6px";s:19:"standardscreenwidth";s:8:"standard";s:12:"stickynavbar";s:0:"";s:22:"tabbedlayoutcoursepage";s:1:"0";s:26:"tabbedlayoutcoursepagelink";s:0:"";s:38:"tabbedlayoutcoursepagetabcolorselected";s:4:"#06c";s:40:"tabbedlayoutcoursepagetabcolorunselected";s:4:"#eee";s:40:"tabbedlayoutcoursepagetabpersistencetime";s:2:"30";s:21:"tabbedlayoutdashboard";s:1:"0";s:34:"tabbedlayoutdashboardcolorselected";s:4:"#06c";s:36:"tabbedlayoutdashboardcolorunselected";s:4:"#eee";s:34:"tabbedlayoutdashboardtab1condition";s:0:"";s:34:"tabbedlayoutdashboardtab2condition";s:0:"";s:12:"templatessel";s:0:"";s:11:"tickertext1";s:123:"<p>Welcome back to school! Print off the suggested timeline in your course. Use it to plan your time and stay on track!</p>";s:23:"tickertext1profilefield";s:0:"";s:11:"tickerwidth";s:0:"";s:16:"tilesbordercolor";s:7:"#629cd1";s:18:"tilescontactstitle";s:1:"1";s:20:"tilesshowallcontacts";s:1:"0";s:17:"tilesshowcontacts";s:1:"1";s:10:"toolsmenu1";s:0:"";s:15:"toolsmenu1field";s:0:"";s:15:"toolsmenu1title";s:5:"Tools";s:15:"toolsmenuscount";s:1:"1";s:15:"topmenufontsize";s:4:"14px";s:13:"topmenuscount";s:1:"1";s:15:"unaddableblocks";s:0:"";s:16:"usernameposition";s:4:"left";s:7:"version";s:10:"2022051207";s:10:"viewselect";s:1:"1";}

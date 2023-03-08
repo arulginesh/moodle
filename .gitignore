@@ -1,0 +1,13 @@
+config.php
+/local/
+/theme/
+/moodledata/
+/cache/
+/logs/
+/error/
+/.htaccess
+*.log
+*.tmp
+*.swp
+*.zip
+*.pdf
